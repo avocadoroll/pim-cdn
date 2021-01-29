@@ -1,1 +1,1 @@
-document.getElementById("demo").innerHTML = "Hello JavaScript!!";
+alert("Hello! I am an alert box from GitHub!!");
